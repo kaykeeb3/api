@@ -5,7 +5,7 @@
 
 <br>
 
-## 🚀 Tecnologias:
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -25,6 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Prisma-client
 - Git e Github
 
-## 💻 Projeto:
+## 💻 Projeto
 
 Essa Aplicação foi desenvolvida durante o <strong>NLW Spacetime</strong> que tem como objetivo criar uma cápsula de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
